@@ -1,0 +1,13 @@
+#supportHero{
+    background-color: rgb(64, 161, 226);
+}
+
+#supportWrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+#supportHero a{
+    text-decoration: none;
+    color: white;
+}
